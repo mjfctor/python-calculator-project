@@ -1,2 +1,2 @@
 # first-project-python
-Basic command-line calculator written in Python
+Basic command-line calculator
